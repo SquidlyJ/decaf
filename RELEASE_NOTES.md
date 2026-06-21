@@ -4,6 +4,7 @@ Initial GitHub-distributed VSIX release.
 
 ## Included
 
+- DeCaf squid espresso icon.
 - Local log detection.
 - Temporary DeCaf view generation.
 - Automatic DeCaf opening settings.
